@@ -1,8 +1,3 @@
-# E-commerce Data Analysis
-Author: Elias Hossain (Graduate Student) <br>
-Department: Electrical & Computer Engineering (ECE) <br>
-North South University, Dhaka <br>
-
 # Purpose of the Notebook
 This project is focused on performing data analysis on an e-commerce dataset using Python and PostgreSQL. The dataset includes information about transactions, customers, items, time, and stores. 
 The purpose of the notebook is to showcase how to execute OLAP queries using SQL and Python, and how to load the results into pandas dataframes. Additionally, the notebook would demonstrate how to visualize the data using matplotlib. Specifically, the notebook would focus on answering the given questions 
